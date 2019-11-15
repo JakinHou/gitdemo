@@ -7,4 +7,5 @@ package org.git.demo.bean;
 public class UserBean {
 	// 属性
 	private String uname; // 用户名 
+	private int age;
 }
